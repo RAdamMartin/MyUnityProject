@@ -47,30 +47,12 @@ Temporary Items
 .apdisk
 
 #Unity Temp/Config
-./MyUnityProject/.vs/**
-./MyUnityProject/Temp/**
-./MyUnityProject/**.log
-./MyUnityProject/obj/**
+MyUnityProject/.vs/*
+MyUnityProject/Temp/*
+MyUnityProject/Library/*.log
+MyUnityProject/obj/*
 
 #Unity builds
-./MyUnityProject/**_Data
-./MyUnityProject/**.pdb
-./MyUnityProject/**.exe
-MyUnityProject/Library/ShaderCache/
-MyUnityProject/Library/shadercompiler-UnityShaderCompiler.exe0.log
-MyUnityProject/Library/shadercompiler-UnityShaderCompiler.exe1.log
-MyUnityProject/Library/shadercompiler-UnityShaderCompiler.exe2.log
-MyUnityProject/Library/shadercompiler-UnityShaderCompiler.exe3.log
-MyUnityProject/Library/shadercompiler-UnityShaderCompiler.exe4.log
-MyUnityProject/Library/shadercompiler-UnityShaderCompiler.exe5.log
-MyUnityProject/Library/shadercompiler-UnityShaderCompiler.exe6.log
-MyUnityProject/Library/shadercompiler-UnityShaderCompiler.exe7.log
-MyUnityProject/MyUnityProject.sln
-MyUnityProject/ProjectSettings/
-MyUnityProject/Temp/
-MyUnityProject/obj/
-MyUnityProject/player_win_development_x64.pdb
-MyUnityProject/player_win_development_x64_s.pdb
-MyUnityProject/test.exe
-MyUnityProject/test_Data/
-MyUnityProject/.vs/
+MyUnityProject/*_Data
+MyUnityProject/*.pdb
+MyUnityProject/*.exe
